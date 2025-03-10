@@ -1,6 +1,7 @@
 # DeepBET for Conditional Independence Testing
 
-This repository contains the code for implementing ""
+This repository contains the code for implementing "Testing Conditional Independence with Deep Neural Network Based
+Binary Expansion Testing (DeepBET)"
 The python version is 3.11.4
 
 Paper link: 
