@@ -24,9 +24,7 @@ args = parser.parse_args()
 
 def main():
     test = args.test
-    test = 'power'
     split = args.split
-    split = 'multiple'
     sim_size = args.sim_size
     n_sample = args.n_sample
     sType = args.sType
