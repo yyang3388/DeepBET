@@ -1,0 +1,28 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+myenv/
+env/
+.venv/
+
+# IDE Settings
+.idea/
+.vscode/
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Log and Environment Files
+*.log
+.DS_Store
+.env
